@@ -1,0 +1,9 @@
+Add your background music file here, named exactly:
+background-music.mp3
+
+Any soft instrumental works well. Some free/royalty-free sources:
+- https://pixabay.com/music/search/romantic/
+- https://www.chosic.com/free-music/romantic/
+
+Once added, the file path should be:
+assets/audio/background-music.mp3
